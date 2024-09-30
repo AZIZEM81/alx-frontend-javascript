@@ -1,4 +1,4 @@
-//for... of loop
+// for... of loop
 //
 export default function appendToEachArrayValue(array, appendString) {
   const newArray = [];
